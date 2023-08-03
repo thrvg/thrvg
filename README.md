@@ -1,6 +1,6 @@
-Hi, I’m Atharva Gangal 👋
+Hey, I’m Atharva! 👋
 
-This is my GitHub!
+Check out my projects below!
 
 <!---
 thrvg/thrvg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
